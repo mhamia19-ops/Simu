@@ -1,0 +1,6 @@
+{
+  "name": "SK-BZW1000 3D Simulation",
+  "description": "Interactive 3D mechanical simulation of the SK-BZW1000 industrial packaging and labelling machine with synchronized cam-linkage kinematics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
